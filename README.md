@@ -1,4 +1,4 @@
-- 👋 Olá, meu é Paulo Henrique
+- 👋 Olá, meu nome é Paulo Henrique
 - 👀 Sou professor da E.E. João Maringoni
 - 🌱 Leciono aulas no Ensino Fundamental - Anos Finais e Ensino Médio
 - 💞️ Crescimento e Evolução
