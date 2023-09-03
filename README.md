@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @phs252 - Paulo Henrique
-- 👀 I’m interested in ... Professor
-- 🌱 I’m currently learning ... alunos do Ensino Fundamental - Anos Finais e Ensino Médio
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Crescimento e Evolução
+- 👋 Olá, meu é Paulo Henrique
+- 👀 Sou professor da E.E. João Maringoni
+- 🌱 Leciono aulas no Ensino Fundamental - Anos Finais e Ensino Médio
+- 💞️ Crescimento e Evolução
+- 📫 
 
 <!---
 phs252/phs252 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
